@@ -4,6 +4,7 @@ to do:
 3. add functionality for inq 2.5% set bonus
 4. chart dwh spec accuracy for applicable targets based on gear input (xaxis - def@ 0hammer, def@ 1hammer, def@ 2hammer...; yaxis = accuracy; hover - acc, dpa, defReduction)
 5. chart bgs spec damage for applicable targets based on gear input (xaxis - def, yaxis - damage; hover - accuracy, dpa)
+6. Add maxhit for each weapon to all tooltips when hovering over a line
 
 to do part 2:
 1. build basic webpage that allows you to select inputs and save as loadouts
